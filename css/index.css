@@ -166,17 +166,17 @@ header a:hover {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	width: 691px;
+	width: 880px;
 }
 
 .cta .cta-text {
 	display: flex;
 	flex-direction: column;
 	align-items: center;	
-text-align: center;
-  font-size: 77px;
-  margin-top: 120px;
-  padding: 0px 75px;
+    text-align: center;
+    font-size: 77px;
+    margin-top: 80px;
+    padding-left: 120px;
 }
 
 .cta .cta-text button {
@@ -203,24 +203,24 @@ text-align: center;
 .main-content {
   border-top: 1px solid black;
   margin-top: 76px;
-  padding-top: 39px;
+  padding-top: 20px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-bottom: 40px;
 }
 
 .main-content .top-content {
-  padding: 0 10px;
+  padding: 20px 10px;
   display: flex;
   justify-content: space-between;
 }
 
 .main-content .top-content .text-content {
-  width: 410px;
+  width: 49%;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin-right: 34px;
 }
 
 .main-content .top-content .text-content:last-child {
@@ -228,7 +228,7 @@ text-align: center;
 }
 
 .main-content .middle-img {
-  margin-top: 45px;
+  margin-top: 20px;
 }
 
 .main-content .bottom-content {
@@ -239,7 +239,7 @@ text-align: center;
 }
 
 .main-content .bottom-content .text-content {
-  width: 275px;
+  width: 32%;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -251,7 +251,7 @@ text-align: center;
 }
 
 .contact {
-  margin-top: 57px;
+  margin-top: 15px;
   border-top: 1px solid black;
   padding: 39px 10px 0;
 }
@@ -329,7 +329,7 @@ ul {
 }
 
 h1{
-	font-size: 150%;
+	font-size: 95%;
 }
 
 
